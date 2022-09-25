@@ -1,0 +1,15 @@
+.back {
+  text-decoration: none;
+  color: black;
+  opacity: 0.6;
+  padding: 10px 15px;
+  border: rgba($color: #000000, $alpha: 0.5) solid 1px;
+  border-radius: 7px;
+  margin-top: 20px;
+}
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
