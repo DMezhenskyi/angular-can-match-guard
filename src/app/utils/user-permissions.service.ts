@@ -6,7 +6,7 @@ import { of } from 'rxjs';
 })
 export class UserPermissionsService {
 
-  isAdmin$ = of(true);
+  isAdmin$ = of(false);
 
   constructor() { }
 }

@@ -13,7 +13,7 @@ import { NotFoundComponent } from './not-found/not-found.component';
     AppComponent,
     HomeComponent,
     UserDashboardComponent,
-    AdminDashboardComponent,
+    // AdminDashboardComponent,
     NotFoundComponent
   ],
   imports: [
